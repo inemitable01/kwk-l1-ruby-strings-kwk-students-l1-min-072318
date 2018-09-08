@@ -1,3 +1,4 @@
-# Code your prompts here!
-
-# Try starting out with puts'ing a string.
+puts "Hi, whats your name?"
+name = gets.chomp
+puts "what is your party name?"
+date
